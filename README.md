@@ -1,1 +1,2 @@
-# UIUC-CS-437-Internet-of-Things
+UIUC CS 437: Internet of Things Labs
+
